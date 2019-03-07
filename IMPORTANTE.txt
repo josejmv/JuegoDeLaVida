@@ -1,0 +1,4 @@
+una vez ejecutado el programa por primera vez, pulse click derecho en la barra superior de la ventana e ingrese a propiedades, una vez alli, en "Tamaño de la ventana" coloque los siguientes valores y pulse aceptar, para que asi se vea completa la simulacion:
+
+ancho: 166 o mayor
+alto:     45 o mayor
